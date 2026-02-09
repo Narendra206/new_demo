@@ -85,9 +85,11 @@ button {
   padding: 14px 20px;
   border-radius: 12px;
   max-width: 500px;
+
+  color: #1565c0;   /* 🔵 ADD THIS LINE (blue text) */
+
   font-size: 16px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.08);
-  transition: 0.3s;
 }
 
 .quote-card:hover {
